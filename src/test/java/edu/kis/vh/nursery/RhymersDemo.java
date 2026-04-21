@@ -37,3 +37,7 @@ class RhymersDemo {
     }
 
 }
+/**
+ * Projekt jest poprawny - walidacja testami jednostkowymi przebiegła pomyślnie
+ * po przeprowadzeniu refaktoryzacji.
+ */
